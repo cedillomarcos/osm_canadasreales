@@ -61,6 +61,15 @@ http://umap.openstreetmap.fr/es/map/canadas-reales_518716
 
 Estos mapas pueden ser editados y solicitadas las modificaciones oportunas, asi como la adición de datos que permitan un enriquecimiento de la información para todos los usuarios.
 
+### Altimetrías - GIS / GDAL
+
+Las altimetrías o elevaciones no son incluidas en OpenStreetMap, por lo que es necesario obtenerlo de sistemas externos de GIS que ofrezcan los datos en formado GDAL.
+
+La pagina oficial de GDAL es:
+https://gdal.org/index.html
+
+@TODO: Integrar con GDAL
+
 
 ### Web App - Custom
 El proyecto contiene un visualización custom de los datos en vez de usar Umap para futuras implementaciones o diseños que se realicen sobre la visualización de datos.
